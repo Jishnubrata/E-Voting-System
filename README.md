@@ -104,6 +104,20 @@ npm start
 # Run smart contract tests
 truffle test
 ```
+## 📷 Screenshots
+
+### 🧑‍💻 Voter Login Page
+![Voter Login](https://github.com/Jishnubrata/E-Voting-System/blob/main/E-Voting-System/Screenshots/Login%20Page.png)
+
+### 📋 List of Candidates
+![Voting Dashboard](https://github.com/Jishnubrata/E-Voting-System/blob/main/E-Voting-System/Screenshots/List%20of%20Candidates.png)
+
+### 📝 Casting votes
+![casting vote](https://github.com/Jishnubrata/E-Voting-System/blob/main/E-Voting-System/Screenshots/Casting%20Vote.png)
+
+### 📊 Results Page
+![Results Page](https://github.com/Jishnubrata/E-Voting-System/blob/main/E-Voting-System/Screenshots/Results.png)
+
 
 🤝 Contributing
 We welcome contributions! 🚀
